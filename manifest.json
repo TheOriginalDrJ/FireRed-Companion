@@ -1,0 +1,14 @@
+{
+  "id": "pokemon_companion",
+  "name": "Pokemon Companion",
+  "version": "0.1.2",
+  "author": "TheOriginalDrJ",
+  "description": "Your first party Pokemon follows, chats, and occasionally finds a gift. Includes locally extracted Red Rescue Team sprites.",
+  "games": ["firered"],
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "content",
+  "category": "Gameplay",
+  "priority": 330,
+  "permissions": ["engine_internals"]
+}
